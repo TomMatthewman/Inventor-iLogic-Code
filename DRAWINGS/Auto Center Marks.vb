@@ -1,4 +1,4 @@
-﻿' Set a reference to the drawing document.
+' Set a reference to the drawing document.
 Dim oDrawDoc As DrawingDocument
     oDrawDoc = ThisApplication.ActiveDocument
 

@@ -1,4 +1,4 @@
-﻿'catch and skip errors
+'catch and skip errors
 On Error Resume Next
 'define the active assembly
 Dim oAssyDoc As AssemblyDocument

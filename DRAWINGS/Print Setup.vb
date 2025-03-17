@@ -1,4 +1,4 @@
-﻿'Get the active document and check whether it's drawing document
+'Get the active document and check whether it's drawing document
 If ThisApplication.ActiveDocument.DocumentType = kDrawingDocumentObject Then
 Dim oDrgDoc As DrawingDocument
 oDrgDoc = ThisApplication.ActiveDocument

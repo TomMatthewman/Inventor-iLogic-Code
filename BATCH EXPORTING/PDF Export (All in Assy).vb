@@ -1,4 +1,4 @@
-﻿Sub Main()
+Sub Main()
     Dim oDoc As Document
     oDoc = ThisDoc.Document
     oDocName = System.IO.Path.GetDirectoryName(oDoc.FullFileName) & "\" & System.IO.Path.GetFileNameWithoutExtension(oDoc.FullFileName)
@@ -65,7 +65,7 @@
     '- - - - - - - - - - - - -
     
     MessageBox.Show("New Files Created in: " & vbLf & oFolder, "iLogic")
-    MsgBox("Files found without drawings: " & vbLf & oNoDwgString)
+    MsgBox("Files found without drawings: " & vbLf & oNoDwgString, )
     Shell("explorer.exe " & oFolder,vbNormalFocus)
 End Sub
 

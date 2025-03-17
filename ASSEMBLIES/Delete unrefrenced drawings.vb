@@ -1,4 +1,4 @@
-﻿''' <summary>
+''' <summary>
 ''' Allows an iLogic user to remove broken "pink" unreferenced sketch entities.
 ''' </summary>
 Sub Main()

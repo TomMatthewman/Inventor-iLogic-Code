@@ -5,4 +5,4 @@ To Use said code in Inventor 2025, simply copy and paste each as a .txt or .vb f
 
 For Batch exporting, I would recomend using the (Any Folder) Options and specify the disk or a high level folder which contains all your CAD to ensure it can find the reqired drawings/ parts (The More specific the folder selection the faster the code will run). If use the other export options they will require all parts/drawings and assemblies to be stored in the same file to work as intended.
 
-I do not have ownership over any of the code within this repository And have mearly edited pre exiting code to produce these.
+I do not have ownership over any of the code within this repository, Mostly pre existing code some with alterations, apart from Batch export section

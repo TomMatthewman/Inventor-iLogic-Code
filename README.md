@@ -1,5 +1,5 @@
 # Inventor-iLogic-Code
-A collection of iLogic VBA Code to reduce repetitive, mundane work in Autodesk Inventor. Ideal if you work with large sets of drawings as a draftsman, CAD Technician, or Design Engineer.
+A collection of iLogic VB Code to reduce repetitive, mundane work in Autodesk Inventor. Ideal if you work with large sets of drawings as a draftsman, CAD Technician, or Design Engineer.
 
 To Use said code in Inventor 2025, simply copy and paste each as a .txt or .vb file into a folder of your choosing. Open Inventor go to Tools, Options, iLogic Configuration, and set the DLLs directory to a file containing the txt documents. Once this is done head to Manage, Ilogic, and enable the ilogic browser this will create an Ilogic tab on the left of your screen, in this go to external rules and you should see your code. From here you can run the code or edit it in the integrated editor. I recommend leaving this illogic tab open for quick access to the simpler snippets for quick access, or set-up triggers. (Code may require alterations for your specific file location/ setup)
 
